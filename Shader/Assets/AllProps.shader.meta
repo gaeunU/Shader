@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: c4fde7f3ffcca83499975746f9fe46e3
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _myTex: {instanceID: 0}
+  - _myCube: {instanceID: 0}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
